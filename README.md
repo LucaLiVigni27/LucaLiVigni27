@@ -32,7 +32,7 @@ Interested in:
 ### Currently Building
 
 - AI Agent
-- CNN Dog Breed Classifier
+- RAG Application
 
 ---
 
