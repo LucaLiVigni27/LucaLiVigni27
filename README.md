@@ -23,7 +23,7 @@ Interested in:
 
 ### Featured Projects
 
-**[AI Internship Assistant](https://github.com/LucaLiVigni27/ai-internship-assistant)** — a hybrid SQL/vector RAG system for tracking and matching internship applications. FastAPI + SQLAlchemy backend, Chroma + FTS5 hybrid search (BM25 + semantic, fused via RRF), LLM-based structured extraction with citation-grounded answers, Dockerized and tested with measured retrieval/generation metrics.
+**[CNN Dog Breed Classifier](https://github.com/LucaLiVigni27/dog-breed-classifier-v2)** — a transfer-learning image classifier for 12 dog breeds (ConvNeXt-Tiny, 98.5% test accuracy vs. 30% for a CNN trained from scratch, 59/60 on unseen photos), with a confidence threshold that answers "not sure" for other breeds, an interactive Streamlit demo and a Docker image. [Live demo](https://dog-breed-classifier-v2.streamlit.app/)
 
 **[LA Airbnb Price Predictor](https://github.com/LucaLiVigni27/ml-project)** — an end-to-end ML pipeline predicting Los Angeles Airbnb nightly prices (Hist Gradient Boosting, R² 0.852, MAE ~$91), with an interactive Streamlit dashboard and MLflow experiment tracking. [Live demo](https://ml-project-9d4h7f7zpphjzcdp9w6rzs.streamlit.app/)
 
